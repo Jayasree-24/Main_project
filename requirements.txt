@@ -1,0 +1,4 @@
+Flask
+Gunicorn
+opencv-python
+tensorflow == 2.15.0
