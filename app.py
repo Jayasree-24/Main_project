@@ -1,4 +1,8 @@
 import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # Suppress TensorFlow INFO and WARNING messages
+
+import tensorflow as tf
+
 import time
 import numpy as np
 import cv2
