@@ -1,3 +1,4 @@
+streamlit
 absl-py==2.1.0
 asgiref==3.8.1
 asttokens==2.4.1
